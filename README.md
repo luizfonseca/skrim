@@ -2,7 +2,7 @@
 
 # How to use
 
-- It will 
+- It will execute on the element that the breakpoint was defined (so, when `.element` reaches the breakpoint)
 - `data-skrim-breakpoint` to define possible CSS based breakpoints
 - `data-skrim-fn` function to call whenever the breakpoint occurs
 
